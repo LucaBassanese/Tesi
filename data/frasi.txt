@@ -1,0 +1,1548 @@
+oligopoly games with nonlinear demand and cost functions two boundedly rational adjustment processes
+investment decisions and the soft budget constraint
+modeling and forecasting cointegrated relationships among heavy oil and product prices
+oligopoly games with local monopolistic approximation
+rockets and feathers revisited an international comparison on european gasoline markets
+agricultural technology adoption and poverty reduction a propensity score matching analysis for rural bangladesh
+size biased sampling and discrete nonparametric bayesian inference
+social ascent and real estate investments the clerici family in 17th and 18th century milan
+discrete random probability measures a general framework for nonparametric bayesian inference
+a nominal income growth target for a conservative ecb when the policy mix matters
+branching and competition in the european banking industry
+modelling the load curve of aggregate electricity consumption using principal components
+long run models of oil stock prices
+handling dropout and clustering in longitudinal multicentre clinical trials
+asymmetric error correction models for the oil gasoline price relationship
+modelling factor demands with sem and var an empirical comparison
+econometric models of asymmetric price transmission
+the experiment in the history of economics
+the asymmetric effects of oil shocks on output growth a markov switching analysis for the g 7 countries
+pricing and hedging illiquid energy derivatives an application to the jcc index
+oil prices inflation and interest rates in a structural cointegrated var model for the g 7 countries
+multiple bank lending diversification and free riding in monitoring
+hunting the living dead a peso problem in corporate liabilities data
+modelling dynamic conditional correlations in wti oil forward and futures returns
+conditional correlations in the returns on oil companies stock prices and their determinants
+modelling time varying conditional correlations in the volatility of tapis oil spot and forward returns
+testing multiple non nested factor demand systems
+empirical factor demands and flexible functional forms a bayesian approach
+modelling dynamic conditional correlations in the volatility of spot and forward oil price returns
+price asymmetries in international gasoline markets
+econometria applicata
+statistical investigation on the relation between car accidents and warm katabatic winds
+deregulated wholesale electricity prices in italy
+asset age sex standardised estimates of treatment a research model to improve the governance of prescribing funds in italy
+the optimal size of a bank costs and benefits of diversification
+close relationships between banks and firms is it good or bad
+solvency regulation and credit risk transfer
+the determination of the internal price of funds and the internal organization of the bank
+financial structure managerial compensation and monitoring
+electricity prices and cross border trade volume and strategy effects
+diversification and delegation in firms
+market power and the power market multi unit bidding and in efficiency in electricity auctions
+manufacturing activity in venetian lombardy specialized products and the formation of a regional market 17th 18th centuries
+the tobin tax a mean variance approach
+flexible meta regression functions for modeling aggregate dose response data with an application to alcohol and mortality
+forecasting patent filings in the telecommunication industry
+star garch models for stock market interactions in the pacific basin region japan and us
+an empirical analysis on the financial structure of italian firms
+duration dependent markov switching vector autoregression properties bayesian inference and application to the analysis of the u s business cycle
+testing non nested systems of factor demand equations
+non nested tests encompassing and iv estimation evidence from a monte carlo study
+factor demands and substitution in the italian manufacturing sector a dynamic duality model
+multivariate non nested tests for comparing the empirical performance of alternative factor demand systems
+on the robustness of robustness checks of the environmental kuznets curve
+a comparative analysis of european railroads efficiency a cost frontier approach
+experiments on auctions with random prizes and eu non eu bidders
+tax enforcement for smes lessons from the italian experience
+marginal commodity tax reforms a survey
+poverty reducing commodity tax reforms
+efficient postal tariffs with legal monopoly and competitive entry
+economies of scale and scope in the italian banking industry evidence from panel data
+a robust multivariate long run analysis of european electricity prices
+informal credit and group lending modeling the choice
+court delays and crime deterrence an application to crimes against property in italy
+politicians central banks and the shape of financial supervision architectures
+usury interest rates and bank lending the missing supply side
+capitalization requirements efficiency and governance
+the marshall plan in lombardy technological innovation and vocational training
+the coevolution of entrepreneurship and clusters
+spin offs external economies and clusters evolution
+entry market structure and innovation in a history friendly model of the evolution of the pharmaceutical industry
+history friendly simulations for modelling industrial dynamics
+assessing the use of sample selection models in estimating fertility postponement effects
+statistical regularity of firm size distribution the pareto iv and truncated yule for italian sci manufacturing
+age at first sexual intercourse in italy a geographical approach
+robust tests for pareto density estimation
+robust sequential fitting of the pareto ii distribution theoretical and computational aspects
+fitting pareto ii distributions on firm size statistical methodology and economic puzzles
+collective bargaining and wage dispersion in europe
+workplace flexibility and job satisfaction some evidence from europe
+the labour market participation of sandwich generation italian women
+standard packages outputs when n is large when and how should they be adjusted
+testing the shoulder condition in point transect sampling
+identifying radon prone areas in lombardy a geostatistical approach
+a multilevel extension of a heckman type model for longitudinal quality of life data subject to drop out in a multi centre clinical trial
+resampling methods for bias reduction of animal density estimators in point transect sampling
+comparing estimators of animal abundance a simulation study
+on the use of inferential confidence intervals
+imf conditionality as a screening device
+statistical information system for decisional support to labour market policy
+statistical information systems and data warehouses for job marketplaces
+adoption of an imf programme and debt rescheduling an empirical analysis
+buybacks of domestic debt in public debt management
+imf concern for reputation and conditional lending failure theory and empirics
+the political economy of imf forecasts
+modelling electricity prices from the state of the art to a draft of a new proposal
+evaluting the empirical performance of alternative econometric models for oil price forecasting
+on the robustness of the robustness checks of the environmental kuznets curve
+how defensive were lending and aid to hipc
+migration and technological change in rural households complements or substitutes
+farm households production theories a review of institutional and behavioural responses
+summary of the thesis technology adoption and migration in rural households in developing countries
+modeling factor demand systems with sem and var an empirical comparison
+oil and product price dynamics in international petroleum markets
+star garch models for stock market interactions in the pacif basin region japan and us
+forecasting volatility in european stock markets with non linear garch models
+forecasting oil prices
+international energy markets
+the impact of financial markets on the price of oil the opec s view
+organisation design corporate governance and regulation
+on the distribution of random dirichlet jumps
+the effects of unions on wage inequality the italian case in the nineties
+the european union and the member states which level of government should do what an empirical analysis of europeans preferences
+is work flexibility a stairway to heaven the story told by job satisfaction in europe
+regional wage differentials and collective bargaining in italy
+corporate financing decisions and non debt tax shields evidence from italian experiences in the 1990s
+the impact of elder parents on italian women s labour market participation
+regional wage differentials and collective bargaining in italy
+toxicity on the luminescent bacterium vibrio fischeri beijerinck i qsar equation for narcotics and polar narcotics
+combining information from several groups in estimating characteristics of immigrant people
+university choices and work destinies in italy
+customer communication management
+business intelligence handbook
+medical communication quality in italian pharmaceutical industry measure and analysis by noos
+medical communication in italian pharmaceutical industry measure and analysis by noos
+methodological problems in the web mining field
+from log files to web mining the st valentine s day effect
+the healthcare network approach a proposal to improve lifestyle quality of patients affected by chronic diseases
+dental patient s loyalty and satisfaction
+sales force effectiveness in pharmaceutical industry an application of shift share tecnique
+importance performance an application on patients in dentist practice
+knowledge based governance can improve the elderly population s equity of access to public pharmaceutical funding
+business demography and human resources a forecasting approach
+measure of market and territory dynamic in pharmaceutical industry an application of shift share tecnique
+watching alone relational goods television and happiness
+the effects of attendance on academic performance panel data evidence for introductory microeconomics
+why capital hires labor in tema production
+policing team production through job design
+from work organisation to employment and rewards
+job assignment and promotion
+learning in decentralised organisations
+job assignment and bandit problems
+free riding in teams the contract like firm
+organisation and strategic interaction in teams
+job modelling and incentive design a preliminary study
+job design and maximum joint surplus
+promotion and hierarchy a review
+planning agreements in the mezzogiorno
+organisational design decision rules operating costs and delay
+a role for instructions
+wages and the labour market in the building trade in 18th century milan
+technology and firm size distribution evidence from italian manufacturing sectors
+measuring indirect reciprocity whose back do we scratch
+income aspirations television and happiness evidence from the world values survey
+working on the train trade technology and wages in italian manufacturing
+the economy of a political periphery lombardy in a period of transition during the seventeenth and eighteenth centuries
+foreword to international tourism demand and country risk for small island tourism economies
+econometrics
+taxpayers choices under studi di settore what do we know and how can we interpret it
+risky allocations from a risk neutral informed principal
+the structure of organisations under adverse selection informed principal and collusion
+informed principal with correlation
+monitoring subcontracting in a suppliers hierarchy
+hierarchical contracting in grant decisions ex ante and ex post evaluation in the context of the eu structural funds
+social determinants of labor market status of ethnic minorities in britain
+international migration and gender differentials in the home labor market evidence from albania
+impoverishment effects of the health care system evidence from the western balkans
+divided government and dominance solvability
+a purely non cooperative model of divided government
+on the generic strategic stability of nash equilibria if voting is costly
+meetings with costly participation a comment
+asymmetric equilibria in a model with costly voting
+a spatial voting model where proportional rule leads to two party equilibria
+extreme voting under proportional representation the multidimensional case
+forecasting good volatility and bad volatility
+optimal filtering for a common stochastic cycle shifted in continuous time
+dynamics of relational goods with heterogeneous individuals
+on non nash equilibria
+adaptive learning in imperfect monitoring games
+a general approach to rational learning in games
+uniform price auctions on the optimality of an elastic supply
+rational learning in imperfect monitoring games
+iterated admissibility as solution concept in game theory
+interdisciplinary research in social sciences why and how
+the dynamics of information in assets markets
+financial market imperfections and corporate decisions lessons from the transition process in hungary
+customer communication management the case study of the italian employment information system
+dynamic principal components analysis for comparison of latent trajectories of university human capital
+word of mouth in the pharmaceutical industry a network textual analysis approach
+screening and signalling in debt strategies theory and empirics
+a new distribution on the simplex containing the dirichlet family
+e m algorithm an application to a mixture model for compositional data
+sale or gratuitous transfer conveyance of family estates in a manufacturing village lumezzane in the 18th and 19th centuries
+modelling good and bad volatility
+reciprocity theory and facts
+a simple extension of dasgupta maskin existence theorem with an application
+exercises and solution in advanced microeconomics
+learning and convergence to equilibrium in repeated strategic interactions an introductory survey
+correlated rationalizability dominated strategies refinements and uniqueness
+competition and cooperation in markets the experimental case of a winner take all setting
+sure wins separating probabilities and the representation of linear functionals
+asset pricing with no exogenous probability measure
+finitely additive supermartingales
+decomposition of supermartingales indexed by a linearly ordered set
+yan theorem in l infinity with applications to asset pricing
+modelling the italian mib30 implied volatility surface does market efficiency matter
+a note on asset bubbles in continuous time
+pricing and informational efficiency of the mib30 index options market an analysis with high frequency data
+jekyll and hyde
+market driven management global competition and corporate responsibility
+labour supply in presence of taxation financing public services an experimental approach
+are people samaritans or avengers
+competition versus cooperation some experimental evidence
+laffer curve in a non leviathan scenario a real effort experiment
+simulating voting rule reforms for the italian parliament an economic perspective
+a simulative assessment of the italian electoral system
+arbitrage theory with bounded prices
+incompleteness of markets and vagueness of beliefs
+improving bankruptcy proceedings or strengthening punishments an assessment on anti usury policies
+a tale of three countries italian spanish and swiss manufacturing operations in china
+from the theory of the firm to fdi and internalisation a survey
+dissipation of knowledge and the boundaries of the multinational enterprise
+firms international status and heterogeneity in performance evidence from italy
+firms intangible assets and multinational activities full versus shared ownership
+entering the dragon lessons from italian fdis in the people s republic of china
+eu china foreign direct investment a double sided perspective
+flexicurity and job satisfaction in europe the importance of perceived and actual job stability for well being at work
+the european union and the member states an empirical analysis of europeans preferences for competences allocation
+long run relations in european electricity prices
+agency and communication in imf conditional lending theory and empirical evidence
+read my lips the role of information transmission in multilateral reform design
+motivations and effects of imf wb interaction
+do satisfactory working conditions contribute to explaining earning differentials in italy a panel data approach
+does persistence of social exclusion exist in spain
+social exclusion mobility in spain 1994 2001
+job satisfaction working conditions and aspirations
+networks topology and dynamics theory and applications to economics and social systems
+handling the effect of non response in graphical models for longitudinal data
+experiments with the traveler s dilemma welfare strategic choice and implicit collusion
+a prize to give for an experiment on public good funding mechanisms
+with or without you measuring the quality of relational life throughout the world
+testing theories of reciprocity do motivations matter
+epidemiology of paroxysmal positioning vertigo ppv correlation with seasons climate and pollution
+productivity and profitability analysis of large italian companies 1988 2002
+evolution of demand and recent dynamics of the brewing industry in italy beyond the resource partitioning model
+consumers preferences information and firms marketing efforts a beer tasting experiment
+effect control sampling and odds ratio
+a two step approach for regional medium term skill needs forecasting
+the dynamic effect of increasing heterogeneity in financial markets
+controlling chaos through local knowledge
+growing through chaotic intervals
+complex dynamics in a monopoly with a rule of thumb
+heterogeneous fundamentalists and imitative processes
+the attitude of milanese society to work and commercial activities the case of the porters and the case of the elites
+guilds reappraised italy in the early modern period
+measuring the social value of local public goods an empirical analysis within paris metropolitan area
+quasimartingales with a linearly ordered index set
+how to be kind outcomes versus intentions as determinants of fairness
+the geography of economics and happiness spatial patterns in the effects of economic conditions on well being
+the role of fiscal policy in a monetary union are national automatic stabilizers effective
+financial market volatility and primary placements
+macroeconomics and politics revisited do central banks matter
+monetary regimes as insurance schemes old wine in new bottles
+incomplete information in monetary policy games rules rather than a conservative central banker
+from economic crisis to reform imf programs in latin america and eastern europe by grigore pop eleches princeton university press 2009 book review
+the impact of mergers on the degree of competition in the banking industry
+some differences in revealed behaviour under different inquiry methods
+the eib and the economic and social development of italy from 1958 to the beginning of the 1970s
+a new family of power indices for voting games
+estimating marginal costs and market power in the italian electricity auction
+energy deprivation dynamics and regulatory reforms in europe evidence from household panel data
+on polarization and mobility a look at polarization in the wage career profile in italy
+labor migration and social networks participation in southern mozambique
+social determinants of labor market status of ethnic minorities in britain
+endogenous market strucure and the business cycle
+rule of thumb consumers meet sticky wages
+real business cycle with cournot competition and endogenous entry
+analysis of correlation among components of a flexible dirichlet distribution
+pesticides and narcotics toxicity to vibrio fischery studied by qsar
+why do people from southern italy search jobs in the public sector
+the use of control sample in sampling theory
+a note on between group inequality with an application to households
+the uniformly most powerful invariant test for two models of detection function in point transect sampling
+adjusting p values when n is large in the presence of nuisance parameters
+control sample and association
+dissecting chinese odi dragon multinationals in italy
+imprese della grande distribuzione mercati globali e competitive customer value
+global market and pubblic governance in europe
+on the uniformly most powerful invariant test for the shoulder condition in line transect sampling
+on the uniformly minimum variance unbiased estimator of odds ratio in case control studies under inverse binomial sampling
+flexicurity and workers well being in europe is temporary employment always bad
+econometric models for oil price forecasting a critical survey
+industrial coal demand in china a provincial analysis
+the health effects of climate change a survey of recent quantitative research
+energy efficiency in europe trends convergence and policy effectiveness
+exploring america
+tax systems simulation using integrated amministative data
+fitting pareto ii distributions on firm size statistical methodology and economic puzzles
+a history friendly model of the evolution of the pharmaceutical industry
+modelling industrial dynamics with history friendly simulations
+rural out migration and economic development at origin what do we know
+price indexes across space and time and the stochastic properties of prices
+the risk based approach in the new european anti money laundering legislation a law and economics view
+securities class action a complement to the ex post regulation in the banking sector
+variance initialisation in garch estimation
+dynamic learning curve with spillovers in a differentiated oligopoly effects on industry structure
+dynamics of technology sharing cartels and industrial structure under a rule of thumb
+global analysis and focal points in a model with boundedly rational consumers
+bifurcations and chaotic attractors in an overlapping generations model with negative environmental externalities
+symmetry breaking bifurcations and representativefirm in dynamic duopoly games
+supermartingale decomposition with a general index set
+methodological issues and models in history friendly simulations
+on a rent seeking game described by a non invertible iterated map with denominator
+global analysis of a non linear model with learning
+a dynamic model of a boundedly rational consumer with a simple least squared learning mechanism
+a geostatistical approach to define guidelines for radon prone area identification
+when the mountain serves the city the production of cheese and wool in eighteenth century bresciano italian alps
+center sampling from applicative issues to methodological aspects
+why fdi an empirical assessment based on contractual incompleteness and dissipation of intangible assets
+the uniformly minimum variance unbiased estimator of odds ratio in case control studies under inverse sampling
+is two better than one effects on growth of bank fund interaction
+wage premia and skill upgrading in italy why the hound did not bark
+risk difference and causality
+a reform proposal for emu institutions
+fiscal policy and inflation targets does credibility matter
+renegotiation and the allocation of property rights
+a simple and flexible alternative to the stability and growth pact deficit ceilings is it at hand
+wealth distribution investment in human capital and occupational choice when capital markets are imperfect
+endogenous start ups financial condition and capital accumulation
+monetary policy and the distribution of wealth in a olg economy with heterogeneous agents money and bequests
+the non superneutrality of money and its distributional effects when agents are heterogeneous and capital markets are imperfect
+federalism education related public good and growth when agents are heterogeneous
+book review fiscal policy in economic and monetary union theory evidence and institutions di buti m and franco d
+employment security and employability a contribution to the flexicurity debate
+social exclusion in spain measurement theory and application
+multiple attractors and nonlinear dynamics in an overlapping generations model with environment
+mathematics and physics applications in sociodynamics simulation the case of opinion formation and diffusion
+global analysis of a dynamic duopoly game with bounded rationality
+monopoly with local knowledge of demand function
+the health effects of climate change a survey of recent quantitative research
+estimating marginal costs and market power in the italian electricity auctions
+taxpayer behavior when audit rules are known evidence from italy
+local and global indeterminacy in an overlapping generations model with consumption externalities
+dragon multinationals in italy
+free riding on altruistic punishment an experimental comparison of third party punishment in a stand alone and in an in group environment
+data adaptive simultaneous parameter and kernel selection in kernel discriminant analysis using information complexity
+recent issues about textual information analysis in micro marketing methodological suggestions and some case studies
+e crm web semantic propensity models and micro data mining an application of kernel discriminant analysis to the glam on web case
+on the choice of the kernel function in kernel discriminant analysis using information complexity
+misspecification resistant model selection using information complexity with applications
+kernel discriminant analysis and information complexity advanced models for micro data mining and micro marketing solutions
+the kernel approach in the future of data mining
+profiling a customer base through a sample survey a data mining approach for business solution
+premessa
+new agrarian productive systems for a modern agriculture notes on the lombard agriculture from the napoleonic period to the fascist regime
+new institutions for the agrarian development the cattedre ambulanti di agricoltura in lombardy during the early decennia of the 20th century
+happiness and relational goods well being and interpersonal relations in the economic sphere
+suffer the little children measuring the effects of parenthood on well being worldwide
+the effect of motivations on social indirect reciprocity an experimental analysis
+the effects of unions on wage inequality the italian case in the 1990s
+labour market assimilation and over education the case of immigrant workers in italy
+the market for paintings in baroque venice
+does political knowledge increase support for europe a cross country investigation investigation of the attitudes of european citizens
+renewing and developing the lombard industry the assolombarda from 1946 to 1968
+a new welfare system the friendly societies in eastern lombardy from 1860 to 1914
+stratification and between group inequality a new interpretation
+measuring bi polarization and polarization a survey
+empirical modeling of deprivation contagion among social exclusion dimensions
+three sided hypothesis testing simultaneous testing of superiority equivalence and inferiority
+testing marginal homogeneity against stochastic order in multivariate ordinal data
+a mutant p53 smad complex opposes p63 to empower tgf beta induced metastasis
+the industrial cycle of milan as an accurate leading indicator for the italian business cycle
+extensions to the multiplier decomposition approach in a sam framework an application to vietnam
+the nurd chromatin remodeling complex regulates signaling and repair of dna damage
+a computational procedure to identify significant overlap of differentially expressed and genomic imbalanced regions in cancer datasets
+conditional tests in a competing risks model
+conditional inference under simultaneous stochastic ordering constraints
+nonparametric iterated combined tests for genetic differentiation
+la dolce vita hedonic estimates of quality of life in italian cities
+symmetric association measures in effect control sampling
+detecting a change in wealth concentration without the knowledge of the wealth distribution
+wage discrimination measurement in defense of a simple but informative statistical tool
+control sample association and causality
+spatial defect pattern recognition on semiconductor wafers
+optimal reduction of a monitoring grid for sio2 deposition surface over a wafer for semiconductor devices
+the international success of a brand and its counterfeiting the story of campari from its origin to the the 1920th
+hedonic based price indexes for the housing market in italian cities theory and estimation
+the effect of ideology on policy outcomes in proportional representation systems
+the sequential rejection principle of familywise error control
+exact inference for multivariate ordered alternatives
+reputation from a game theoretic point of view
+accountability in one party government rethinking the success of chinese economic reform
+how people perceive the welfare state a real effort experiment
+a stochastic dominance approach to the measurement of discrimination
+uncertainty trust and the regulation of the banking industry
+correlation analysis for proportions via updating and resampling
+the flexible dirichlet family some inferential issues
+the shifted scaled dirichlet distribution in the simplex
+notes on the scaled dirichlet distribution
+repeated cheap talk games of common interest between a decision maker and an expert of unknown statistical bias
+does political knowledge increase support for europea a cross country investigation of the attitudes of european citizens
+permutation tests for stochastic ordering and anova
+statistical evaluation of vulnerability and expected seismic damage of residential buildings in the veneto friuli area ne italy
+when less is more rationing and rent dissipation in stochastic contests
+monitoring subcontracting in a supplier s hierarchy
+firms international status and heterogeneity in performance evidence from italy
+the interplay of social interaction individual characteristics and external influence in diffusion of innovation processes an empirical test in medical settings
+state space methods in ox ssfpack
+microfinance and investment a comparison with bank and informal lending
+securities class actions a helping hand for bank regulators in trouble
+securities class actions in the us banking sector between investor protection and bank stability
+portfolio separation and the dynamics of bank interest rates
+fiscal policy and imperfectly credible targets should we appoint expenditure conservative central bankers
+do we really need to tame a conservative ecb when the policy mix matters
+a nominal income growth target for a conservative ecb when the policy mix matters
+wage premia and skill upgrading in italy why didn t the hound bark
+rethinking emu institutions
+attracted but unsatisfied the effects of arousing content on television consumption choices
+to give or not to give equity efficiency and altruistic behavior in a survey based experiment
+a reconciliation of the evidence about bank lending with portfolio theory
+monetary policy and the distribution of wealth in a olg economy with heterogeneous agents money and bequests
+working on the train technology trade and wages in italian manufacturing
+oligopolistic screening and two way distortion
+sale or free assignation conveyance of family estates in a manufacturing village of lombard prealps lumezzane xviii and xix century a first approach
+influential listeners an experiment on persuasion bias in social networks
+investment decisions and the soft budget constraint evidence from hungarian manufacturing firms
+technology sharing cartels and industrial structure under a rule of thumb
+the bank s risk insurance and the emu
+monopolistic pricing in the banking industry a dynamic model
+imperfect information and monopolistic pricing in the banking industry
+the diversification benefits of universal banking
+dynamics of the non linear learning curve with spillovers in a differentiated oligopoly effects on industry structure
+oligopoly games with local monopolistic approximation
+income aspirations television and happiness evidence from the world value surveys
+watching alone relational goods television and happiness
+equilibrium principal agent contracts competition and r d incentives
+heterogeneous fundamentalists and imitative processes
+the non monotonic relationship between taxation and long term equilibrium in a model of endogenous lifetime and economic growth
+sticky wages and rule of thumb consumers
+judicial errors and crime deterrence theory and experimental evidence
+mann iterations with power means
+a prize to give for an experiment on public good funding mechanisms
+testing theories of reciprocity do motivations matter
+dynamic effects of increasing heterogeneity in financial markets
+distortionary taxation rule of thumb consumers and the effect of fiscal reforms
+the allocation of competences between the european union and the member states an analysis of the determinants of europeans preferences
+a new multivariate distribution as a basis for compositional data
+a bayesian approach to model ecp in concentration response experiments
+cooperation without punishment
+the politics of imf forecasts
+endogenous market structure and the business cycle
+single versus multiple prize contests to finance public goods theory and experimental evidence
+investment and external finance an empirical analysis
+uncertainty information and trust in banking intermediation
+real business cycles with cournot competition and endogenous entry
+the impact of training on productivity evidence from a large panel of firms
+the geography of economics and happiness
+television viewing satisfaction and happiness facts and fiction
+with or without you measuring the quality of relational life throughout the world
+how to be kind outcomes versus intentions as determinants of fairness
+experiments with the traveler s dilemma welfare strategic choice and implicit collusion
+electing a parliament
+on the expect of ideology in proportional representation systems
+the determinants of bank interest margins estimates of a dynamic model
+firm s intangible assets and multinational activity full versus shared ownership
+does product market competition increase credit availability
+from craftsmanship to post fordism shipbuilding in the united kingdom and italy after wwii
+novel outlooks on the marshall plan american aid and european re industrialization
+notes on the marshall plan in lombardy technological innovation and vocational training
+notes on the milanese business and trade associations from the end of the 19th century to the erp
+the effects of us economic and financial crises on euro area convergence
+satisfaction loyalty and wom in dental care sector
+the measure of economic re evaluation a coefficient based on conjoint analysis
+preda an r package to identify regional variations in genomic data
+attitudes to work and commerce in the late italian renaissance a comparison between tomaso garzoni s la piazza universale and leonardo fioravanti s dello specchio di scientia universale
+innovation and market driven management in fast fashion companies
+a quantile regression approach to evaluate factors influencing residential indoor radon concentration
+substitution possibilities for energy in the italian economy a general to specific econometric analysis
+the japanese stagnation an assessment of the productivity
+monetary policy and the stock market in the euro area
+structural change and long range dependence in volatility of exchange rates either neither or both
+frequency domain principal components estimation of fractionally cointegrated processes
+some frequency domain properties of fractionally cointegrated processes
+realized mean variance efficient portfolio selection and euro area stock market integration
+energy substitution in italy introduction
+smes in the marshall plan loans and counterpart funds
+statistical benefits of value at risk with long memory
+breaks and persistency macroeconomic causes of stock market volatility
+stock market volatility of regulated industries an empirical assessment
+regional convergence in italy
+the japanese deflation has it had real effects could it have been avoided
+frequency domain principal components estimation of fractionally cointegrated processes some new results and an application to stock market volatility
+structural breaks and common factors in the volatility of the fama french factor portfolios
+a small scale macroeconometric model for the euro 12 area
+the price stability oriented monetary policy of the ecb an assessment
+volatility of interest rates in the euro area evidence from high frequency data
+estimating long memory in the mark dollar exchange rate with high frequency data
+inflation and monetary dynamics in the us a quantity theory approach
+structural common factor approach to core inflation estimation and forecasting
+does the stock market affect income distribution some empirical evidence for the us
+structural econometric approach to bidding in the main refinancing operations of the eurosystem
+the end of the japanese stagnation an assessment of the policy solutions
+estimating filtering and forecasting realized betas
+factor demand modelling the theory and the practice
+multivariate modelling of long memory processes with common components
+comovements in international stock markets
+international stock markets comovements the role of economic and financial integration
+aggregate hedge funds flows and returns
+net inflows and time varying alphas the case of hedge funds
+medium term macroeconomic determinants of exchange rate volatility
+modelling short term interest rate spreads in the euro money market
+international macroeconomic dynamics a factor vector autoregressive approach
+on the macroeconomic causes of exchange rate volatility
+realized betas and the cross section of expected returns
+modeling long memory and structural breaks in conditional variances an adaptive figarch approach
+international house prices and macroeconomic fluctuations
+comovements in volatility in the euro money market
+unespected effects of air pollution on inner ear
+forecasting the residual demand function in electricity auctions
+permanent and transitory dynamics in house prices and consumption some implications for the real effects of the financial crisis
+business cycle comovement in the g 7 common shocks or common transmission mechanisms
+the great recession us dynamics and spillovers to the world economy
+computing value at risk with high frequency data
+measuring core inflation in italy
+combining expenditure surveys and tax registers the case of milan municipality
+firm recruitment and public employement services in italy how the length of searching affects job matching
+social science and neuroscience how can they inform each other
+contractarian compliance and the sense of justice a behavioral conformity model and its experimental support
+the market for paintings in italy during the xvii century
+labour market assimilation and over education the case of immigrant workers in italy
+macro finance interactions in the us a global perspective
+income poverty and social exclusion two sides of the same coin or dynamically interrelated processes
+retail policies in the global gasoline market
+accountability in one party government the role of revolution threat and the chinese economic reform
+a simple model of protest and repression in autocracies to interpret the arab spring
+endogenous reactivity in a dynamic model of consumer s choice
+an optimal cluster based approach for subgroup analysis using information complexity criterion
+technology and productivity the impac of the marshall plan on italian industry an emplirical study
+a note on biased fundamentalists
+market driven management global markets and competitive convergence
+global markets and time based competition
+economics bounded rationality and the cognitive revolution
+the codification debate revisited a conceptual framework to analyze the role of tacit knowledge in economics
+neurosociology mindreading and mindfeeling how the social scientist explains social action
+a family of indexes for teaching evaluation experiences in italian universities
+descriptive analysis of student ratings
+code of conduct and corporate governance
+experts and non experts
+non uniqueness of equilibria in one shot games of strategic communication
+learning from experts
+repeated cheap talk games of common interest between a decision maker and an expert of unknown statistical bias
+global retailers and competitive customer value
+public governance and financial communication
+privatization reproduction and crisis the case of utilities
+oil price forecast evaluation with flexible loss functions
+consumption and precautionary saving an empirical analysis under both financial and environmental risks
+on the economic determinants of oil production theoretical analysis and empirical evidence for small exporting countries
+market driven management competitive markets and performance metrics
+monetary policy fiscal policies and labour markets macroeconomic policymaking in the emu
+global markets and contemporary art
+choosing the bandwidth for decomposing the redistributive effect evidence from milan using america data
+a history friendly model of the evolution of the pharmaceutical industry technological regimes and demand structure
+clusters development spin offs and external economies
+real oil prices since the 1990s
+corporate governance communications
+market driven management market space and value proposition
+dynamic properties of a cournot bertrand duopoly game with differentiated products
+knowledge driven capitalization of knowledge
+common lands in the eastern lombardy during the nineteenth century
+a new brand for a new consumer the international success of campari from its origin to the 1930s
+banking services evaluation a dynamic analysis
+solidarity and microfinance
+responsible lending barriers to competition a study on the mortgage industry for the european parliament
+how defensive were lending and aid to hipc
+the labor market in the seventeenth century italian art sector
+ssd based rating system for the classification of pesticide risk on biodiversity
+order statistics as minimal sufficient statistics
+the health effects of climate change a survey of recent quantitative research
+speculation returns volume and volatility in commodities futures markets
+euro money market spreads during the 2007 financial crisis
+pc var estimation of vector autoregressive models
+uniformly most powerful tests for two sided hypotheses
+center sampling a strategy for elusive population surveys
+demand bubbles virtual communities and market potential
+reforming imf and world bank what governance structure can improve cooperation
+data fusion in pharmaceutical marketing new perspective from administrative data
+impact of ageing on prescribing demand
+effect of age and sex related therapeutic needs on general practices prescribing cost the asset age sex standardised estimates of treatment research model
+corporate responsibility and hypercompetition the ikea case
+corporate responsibility in scarcity economy the olivetti case
+equating population demographics and therapeutic needs with prescribing costs the arte age sex related therapeutic estimates research model
+a new welfare system friendly societies in the eastern lombardy from 1860 to 1914
+fashion luxury and design store brand management and global cities identity
+kernel discrimination and explicative features an operative approach
+studying heterogeneity among fundamentalists in financial markets a note
+wealth sensitive positional competition as a source of dynamic complexity in olg models
+do as the romans do a model of conformity with the endogenous formation of preferences
+attracted but unsatisfied the effects of sensational content on television consumption choices
+dynamic customer satisfaction and measure of trajectories a banking case
+dual process theories of human thought the debate
+consumer preferences and certifications of origin the case of dry cured ham
+therapy modifies hla g secretion differently in crohn s disease and ulcerative colitis patients
+a geostatistical approach to assess the spatial association between indoor radon concentration geological features and building characteristics the case of lombardy northern italy
+selecting and fitting graphical chain models to longitudinal data
+optimal reduction of a spatial monitoring grid proposals and applications in process control
+evaluating a sequential tree based procedure for multivariate imputation of complex missing data structures
+uniformly most powerful unbiased test for shoulder condition in point transect sampling
+dual process theories of human thought the debate preface
+oil price dynamics macro finance interactions and the role of financial speculation
+adaptive arfima models with applications to inflation
+determinants of us financial fragility conditions
+does it take two to tango how to improve cooperation between the imf and the world bank
+did high debts distort loans and grants allocation to ida countries
+a model of chinese central government the role of reciprocal accountability
+citizenry accountability in autocracies the political economy of good governance in china
+banking customer satisfaction evaluation a three way factor perspective
+a generalization of the dirichlet distribution
+da business intelligence a business analytics
+the art market global economy and information transparency
+book review of ludovico solima the cultural organization management processes and instruments
+structural distortions in the euro interbank market the role of key players during the recent market turmoil
+market driven management and outside in capabilities
+market space management and codes of conduct in global companies
+consumption and precautionary saving an empirical analysis under both finanial and environmental risks
+multiple testing for exploratory research
+rejoinder
+testing goodness of fit in regression a general approach for specified alternatives
+global corporate culture and cross cultural management
+market driven management global market and prescribers
+contemporary art firms and value creation in global cities
+admissible test for shoulder condition in line transect sampling under an exponential mixture model
+a ca approach to study complex dynamics in asset markets
+a glass ceiling effect for immigrants in the italian labour market
+the long struggle for the chianti denomination quality versus quantity
+toxicity on the luminescent bacterium vibrio fischeri beijerinck ii response to complex mixtures of heterogeneous chemicals at low levels of individual components
+inconsistencies of the pls pm approach to structural equation models with formative reflective schemes
+did high debts distort loans and grants allocation to ida countries
+rank tests for short memory stationarity
+price capping in partially monopolistic electricity markets with an application to italy
+strategic bidding in vertically integrated power markets with an application to the italian electricity auctions
+asymmetric perception of gains versus non losses and losses versus non gains the causal role of regulatory focus
+species sampling models consistency for the number of species
+global retailers market driven management and innovation
+globally optimized latent variable extraction in formative reflective models
+point and interval estimation for the flexible dirichlet model
+a new coefficient of economic valuation based on utility scores
+counterexamples on the superiority of approval versus plurality
+scoring rules a game theoretical analysis
+informality and poverty are these processes dynamically interrelated the case of argentina
+axiomatic measurement of multidimensional well being inequality some distributional questions
+limited asset market participation does it really matter for monetary policy
+employability of young italian males after a jobless period 1989 1998
+firm recruitment and public employment services in italy how the length of searching affects job matching
+forecasting volatility in asian and european stock markets with asymmetric garch models
+taxapayers response to an increased probability of audit some evidence from italy
+global markets over supply and manufacturing localization
+over supply and manufacturing localization
+product differentiation costs and global competition
+convergence in measure under finite additivity
+a latent growth curve analisys in banking customer satisfaction
+covariance based outlier detection for compositional data with structural zeros application to italian survey of household income and wealth data
+a new mixture model for composition and size
+evolutionary customer evaluation a dynamic approach to a banking case
+alliances open innovation and outside in management
+international outsourcing versus fdi under contractual incompleteness
+chinese odi in italy an empirical investigation at the firm level
+technology human capital and fdi firm level evidence for italy
+does capitalization enhance efficient risk undertaking a comparison between islamic and conventional banks
+choosing between the government and the regions an empirical analysis of the italian constitutional court decisions
+the dragon and the elephant on the way to italy
+what makes a joint venture micro evidence from sino italian contracts
+do exchange rate regimes affect the role of central banks as banking supervisors
+new advantages of tying one s s hands banking supervision monetary policy and central bank independence
+usura
+do large banks reward more innovative small enterprises
+financial supervision monetary policy and central bank independence
+good bye light touch macroeconomic resilience banking regulation and institutions
+the central banker as prudential supervisor does independence matter
+judicial ideal points in new democracies the case of taiwan
+the oil price macroeconomy relationship since the mid 1980s a global perspective
+how do banks respond to shocks a dynamic model of deposit taking institutions
+security issuance and the business cycle
+six year follow up of endovenous laser ablation for great saphenous vein incompetence
+handling nonresponse in business surveys
+welfare at the pirelli from its origin to the post wwii
+not only homogenization globalization in a profitable culture exchange between india and italy
+dynamic principal component analysis a banking customer satisfaction evaluation
+subjective business polarization sentiment analysis meets predictive modeling
+simultaneous inference in regression by liu w book review
+symmetric association measures in effect control sampling
+measuring dissimilarity in learning capital using time trajectories
+non uniqueness of equilbrium action profiles with equal size in one shot cheap talk games
+the expert problem a survey
+distributed expertise and instructions
+what makes a joint venture micro evidence from sino italian contracts
+information transmission within federal fiscal architectures theory and evidence
+the labor market in the art sector of baroque rome
+linking administrative tax records and survey expenditure data at the local level
+a characterization of linear satisfaction measures
+a graphical tool to assess spatial patterns of defectivity on semiconductor wafers an approach based on the minimum spanning tree algorithm
+handling preferential sampling in areal summary statistics
+corporate responsibility management in fast fashion companies the gap inc case
+dynamic customer satisfaction and measure of trajectories a banking case
+the impact of training on productivity evidence from a panel of italian firms
+information transmission and ownership consolidation in aid programs
+does it take two to tango improving cooperation between the imf and the world bank theory and empirical evidence
+pfdr and pfnr estimation for brain networks construction
+brain network connectivity assessed using graph theory in frontotemporal dementia
+are genetically modified foods bad for my health individual s valuations and the choice among different information sources
+allocation criteria under task performance the gendered preference for protection
+rethinking the regulatory treatment of securitization
+measuring urban quality of life using multivariate geostatistical models
+product market competition and collateralized debt
+federalism education related public good and growth when agents are heterogeneous
+federalism human capital accumulation and inequality
+firm size distribution and returns to scale non parametric frontier estimates from italian manufacturing
+voting for legislators
+technological regimes and demand structure in the evolution of the pharmaceutical industry
+a simulation model of he evolution of the pharmaceutical industry a history friendly model
+innovation and market structure in pharmaceuticals an econometric analysis on simulated data
+interfirm strategic business unit a theorethical framework to performance evaluation
+the dragon and the elephant on the way to italy
+supply function prediction in electricity auctions
+market driven management global markets and time based competition
+xenophobic attacks migration intentions and networks evidence from the south of africa
+rural out migration and economic development at origin a review of the evidence
+migration and gender differences in the home labour market evidence from albania
+internationalization and performance of italian enterprises
+tourist exchange between italy and russia
+global retailers market driven management and innovation
+outsourcing services in the italian national health service the satisfaction of pivate and pubblic operators
+equilibrium principal agent contracts competition and r d incentives
+competitive convergence in global markets
+strategic brand management implications for global private label brands
+tax policies in times of recession
+historical and international comparison of business interest associations 19th 20th centuries
+notes on the genesis and development of business interest associations in milan 19th 20th centuries
+conclusion new outlooks on the history of european business interest associations
+the cost of defaults the impact of haircuts on economic growth
+new insights on the us ois spreads term structure during the recent financial turmoil
+identifying radon prone building typologies by marginal modelling
+price capping in partially monopolistic electricity markets
+optimal pricing behavior of vertically integrated utilities theory and evidence from the italian electricity wholesale market
+network performance analysis a literature review
+on estimating hooded crow density from line transect data through exponential mixture models
+the labor market in the art sector of baroque rome
+dynamic patterns analysis meets social network analysis in the modeling of financial market behavior
+assessing the inter rater agreement for ordinal data through weighted indexes
+fleiss kappa statistic without paradoxes
+the market for paintings in the venetian republic from renaissance to rococo
+exogenous oil shocks fiscal policy and sector reallocations in oil producing countries
+financial speculation in energy and agriculture futures markets a multivariate garch approach
+introduction to the special issue on financial speculation in the international oil markets and the determinants of the price of oil
+causality and predictability in distribution the ethanol food price relation revisited
+evaluating the empirical performance of alternative econometric models for oil price forecasting
+the effects on environmental risk on consumption an empirical analysis on the mediterranean countries
+forecasting the oil gasoline price relationship should we care about the rockets and the feathers
+forecast evaluation in call centers combined forecasts flexible loss functions and economic criteria
+retailing private label and global competition
+contemporary art and urban regeneration in the city of milan
+essays on networks and information dynamics
+outsourcing in the italian nhs a measure of mismatch between private and public operators
+outsourcing in the italian nhs a statistical measure of mismatch between private supply and public demand
+visualization and measuring of dynamic customer satisfaction a banking case
+a new prognostic model to predict dropout from the waiting list in cirrhotic candidates for liver transplantation with meld score 18
+a measure of ordinal concordance for the evaluation of university courses
+evaluating the inter rater agreement for ordinal data a comparison of weighted indexes
+a measure of ordinal concordance
+confidence intervals for the berger and boos procedure in the 2x2 binomial trial
+internal and external equity in compensation systems organizational absenteeism and the role of explained inequalities
+the importance of being systemically important financial institutions
+fair play doesn t matter mep modulation as a neurophysiological signature of status quo bias in economic interactions
+influenza a virus prevalence and its implications on survival in mallard
+the hooded crow corvus cornix as an environmental bioindicator species of heavy metal contamination
+adjustment costs financial frictions and aggregate investment
+on avoiding paradoxes in assessing inter rater agreement
+on the topological support of species sampling priors
+catastrophic and impoverishing effects of health expenditure new evidence from the western balkans
+what drives individual attitudes towards immigration in south africa
+parental health and child schooling
+satisfaction human values and other intangible dimensions as drivers of new credit scoring
+dynamic patterns analysis meets social network analysis in the modeling of financial market behavior
+evolutionary customer evaluation a dynamic approach to a banking case
+banking service evaluation a dynamic analysis
+challenging the myth of perfect market a longitudinal analysis of the european money market
+challenging the myth of perfect market a longitudinal analysis of the european money market during turmoil
+facing uncertainty in the interbank market specification and estimation of relational event models with time weighted statistics
+the subjective expectations for business enterprises and economic system in the presence of unexpected events
+banking customer satisfaction and touchpoint a dynamic measure
+measuring the monetary value of social relations a hedonic approach
+power to the people an experimental analysis of bottom up accountability of third party institutions
+identifying patient communication needs an empirical study on rare cancer in italy
+from macro to micro a novel approach to research about the marshall plan
+factor vector autoregressive estimation of heteroskedastic persistent and non persistent processes subject to structural breaks
+insights on the global macro finance interface structural sources of risk factors fluctuations and the cross section of expected stock returns
+modelling the progression of bird migration with conditional autoregressive models applied to ringing data
+migrants and european institutions a study on the attempts to address the economic and social challenges of immigration in eu member states
+social media opportunities for market driven firms
+reputation the value added by the game theoretic point of view
+bargaining and collusion in a regulatory model
+a simple model of protest and repression in autocracies applied to the arab spring
+citizenry accountability in autocracies rethinking the success of chinese economic reform
+liver transplantation in cirrhotic patients with meld score 18 a new prognostic model to predict drop out from the waiting list
+the steel industry in a nutshell from falck to the minini mills
+economic incentives and social preferences causal evidence of non separability
+discovering hidden concepts in predictive models for texts polarization
+firms and welfare company towns in italy 19th 20 th century
+a latent growth curve analysis in banking customer satisfaction
+entrepreneurship and growth of small family firms evidence from a sample of the artistic craftsmen of florence
+a dirichlet mixture model for compositions allowing for dependence on the size
+log ratio approach in curve fitting for concentration response experiments
+welfare measures to assess urban quality of life
+equity in the city on measuring urban ine quality of life
+performance measurement and global networks
+network performance analysis
+from strategic business unit to interfirm strategic business unit a theoretical framework for ibu performance and placement
+ceo compensation regulation and risk in banks theory and evidence from the financial crisis
+the ordinal inter rater agreement in the evaluation of university courses
+dynamics in a nonlinear keynesian good market model
+adaptive decision dynamics bifurcations multistability and chaos
+dynamic behavior of product and stock markets with a varying degree of interaction
+luxury brands enter the online market
+outsourcing services in the italian national health service the evaluation of private and public operators
+thegame an evaluation on self organization engagement by semantic analysis
+rotation based multiple testing in the multivariate linear model
+prolonged use and conditionality failure investigating the imf responsibility
+content marketing theoretical aspects and empirical evidence
+joint ventures and the property rghts theory of the firm a review of the literature
+the role of financial intermediaries in monetary policy transmission
+firm dynamics endogenous markups and the labor share of income
+a cournot duopoly game with heterogeneous players nonlinear dynamics of the gradient rule versus local monopolistic approach
+migration policy an assessment on the north africa emergency provisions
+within establishment wage inequality and satisfaction
+imputing individual effects in dynamic microsimulation models an application to household formation and labour market participation in italy
+labor market reform and rent sharing a quasi experiment experience
+labor mobility network and intra firm wage dispersion
+migration regulation the displacement effects of emergency rules evidemnce from the legal advice service of casa della carità
+using text mining techniques to identify oncological patients communication needs an empirical test on rare cancer in italy
+market coupling between electricity markets theory and empirical evidence for the italian slovenian interconnection
+communicating tourism sustainability online the case of victoria falls world heritage site
+measuring judicial ideal points in new democracies the case of the philippines
+world cities nation states and global competition
+modelling futures price volatility in energy markets is there a role for financial speculation
+forecasting the oil gasoline price relationship do asymmetries help
+financial speculation in the international oil markets and the determinants of the price of oil
+recent approaches to modelling oil and energy commodity prices
+within establishment wage inequality and satisfaction
+imputing individual effects in dynamic microsimulation models an application of the rank method
+willingness to pay for p d o certification an empirical investigation
+to give or not to give equity efficiency and altruistic behavior in an artefactual field experiment
+mep modulation by the meaning of an action a tms study
+how difficult is to raise money in turbulent times
+creative industries cities and globalization
+models of protest and repression in autocracies a specific point of view on the arab spring
+food versus fuel causality and predicability in distribution
+biofuels and food prices searching for the causal link
+futures price volatility in commodities markets the role of short term vs long term speculation
+oil revenues ethnic fragmentation and political transition of authoritarian regimes
+preface to the special issue on recent approaches to modelling oil and energy commodity prices
+how does stock market volatility react to oil shocks
+multiple testing in brain networks construction
+gender inequality exploring the gap using poset approach
+instrumental variable selection in generalized calibration
+l insight problem solving in eta evolutiva
+methodological cognitivism vol 1 mind rationality and society
+methodological cognitivism vol ii cognition science and innovation
+brain reading social action
+a family of indices for teaching evaluation experiences in italian universities
+does ict adoption improves access to credit for small enterprises
+the risk based approach in the new european anti money laundering legislation a law and economics view
+imperfect competition and optimal taxation
+on the empirical failure of purchasing power parity tests
+how much do consumers value pdo certifications estimates of wtp for pdo dry cured ham in italy
+quality of life in cities equity sustainable development and happiness from a policy perspective
+coups revolutions and efficient policies in autocracies
+effect of price elasticity of demand in monopolies with gradient adjustment
+a model of fashion endogenous preferences in social interaction
+nonlinear dynamics and global analysis of a heterogeneous cournot duopoly with a local monopolistic approach versus a gradient rule with endogenous reactivity
+complexity with heterogeneous fundamentalists and a multiplicative price mechanism
+a kaleckian macromodel with memory
+the hedonic value of urban quality of life
+cities equity and quality of life
+content marketing conceptualizing and measuring evidence from a sample of italian firms
+the adriatic sea continentalization before the first world war
+drivers of demand and supply in the euro interbank market the role of key players during the recent turmoil
+fuzzy analysis of students ratings
+clu b a new toolbox for quantitative meta analysis of neuroimaging data
+advances in credit scoring combining performance and interpretation in kernel discriminant analysis
+textual analysis and customer satisfaction analysis a proposal for integration
+business enterprises and economic system subjective expectations
+visualization and monitoring of dynamic customer satisfaction
+determinants of student satisfaction in higher education the case of bicocca university of milan
+latent growth curve modelling for the analysis of longitudinal customer satisfaction in banking sector
+multiple testing for fmri data analysis with an application about age related changes in resting state functional connectivity
+static and dynamic in efficiency in public goods provision
+time series modelling with unobserved components
+identifying oncological patient information needs to improve e health communication a preliminary text mining analysis
+textual analysis and customer satisfaction analysis a proposal for integration
+the dynamic interrelation between external finance and bank credit
+bargaining and collusion in a regulatory relationship
+the long term evolution of the suburbs of milan
+effects of size composition and evolutionary pressure in heterogeneous cournot oligopolies with best response decisional mechanisms
+real and financial interacting markets a behavioral macro model
+emergence of complex social behaviors from the canonical consumption model
+a financial market model with endogenous fundamental values through imitative behavior
+introducing a price variation limiter mechanism into a behavioral financial market model
+heterogeneity and the de stabilizing role of rationality
+occurrence of volatile organic compounds in shallow alluvial aquifers of a mediterranean region baseline scenario and ecological implications
+employment forecasts subjective expectations and the economic crisis
+a measure of bipolarization in labour productivity across italian regions
+the social contract in the laboratory an experimental analysis of self enforcing impartial agreements
+boundedly rational opinion dynamics in social networks does indegree matter
+the effect of particularism on corruption theory and empirical evidence
+how can italian enterprises face global competition and financial crisis by aggregating the case of agribusiness cluster brixia
+national responsible business award to promote a sustainable management in lithuania
+competitive networking for smes in italy how small and medium italian enterprises can face global competition by aggregating
+r d and product engineering in global pharmaceutical companies
+shifted dirichlet regression vs simplicial regression a comparison
+preprocessing of centred logratio transformed density functions using smoothing splines
+big data meet pharmaceutical industry an application on social media data
+micro blogging as generator of market insights and competitive intelligence
+european economic development and the environment
+the role of the flagship store location in luxury branding an international exploratory study
+how difficult is to raise money in turbulent times
+keeping funding costs under control evidence from bank bond issues
+statistical network analysis a multiple testing approach
+a version of koml os theorem for additive set functions
+inferential issues in the extended flexible dirichlet model
+the globalization of the art market a cross cultural perspective where local features meet global circuits
+inbound and outbound marketing techniques a comparison between italian and romanian pure players and click and mortar companies
+location attractiveness as a major factor in museum visitors choice and satisfaction
+managing sustainability to be first the toyota case
+a new common knowledge in agronomics the network of the agrarian reviews and congresses in europe during the first half of the 19th century
+price coordination in vertically integrated electricity markets theory and empirical evidence
+et lux non fuit the privatization of enel and the structure and performance of the electricity market in italy
+archetypes of sme internationalization a configurational approach
+a simplicial approach to inequality measurement
+third party punishment under judicial review an economic experiment on the effects of a two tier punishment system
+the effects of environmental risk on consumption dynamics an empirical analysis on the mediterranenan countries
+the role of outliers and oil price shocks on volatility of metal prices
+current issues on the price of oil decline forecasting volatility and uncertainty
+how does stock market volatility react to oil price shocks
+oil and macroeconomic uncertainty
+the impacts of exogenous oil supply shocks on mediterranean economies
+the impacts of oil price shocks on stock market volatility evidence from the g7 countries
+how is volatility in commodity markets linked to oil price shocks
+open innovation and market orientation an analysis of the relationship
+the impact of digital skills on educational outcomes evidence from performance tests
+communication and performance in bank fund joint participation
+the cost of default official vs private sovereign debt restructurings
+a family of models for schelling binary choices
+two different routes to complex dynamics in an heterogeneous triopoly game
+nonlinear dynamics and convergence speed of heterogeneous cournot duopolies involving best response mechanisms with different degrees of rationality
+a tâtonnement process with fading memory stabilization and optimal speed of convergence
+mann iterations with power means
+a cobweb model for electricity markets
+mann iteration with power means
+model averaging by stacking
+semiparametric estimation of multivariate garch models
+the theorem of halmos and savage under finite additivity
+res effects in italian wholesale electricity market
+managing human capital in cultural organizations the case of two italian museums
+endogenous market structures and optimal taxation
+allosteric modulation of metabotropic glutamate receptor 4 activates ido1 dependent immunoregulatory signaling in dendritic cells
+some results on non central beta distributions
+material well being and job quality some descriptive statistics
+low paid but satisfied how immigrant and ethnic minority workers in low wage jobs make sense of their wages
+subjective well being at the workplace
+explaining the reactions of swiss municipalities to the amalgamation wave at the crossroad of institutional economic and political pressures
+can shareholder litigation discipline ceo bonuses in the financial sector the role of securities class actions
+nonlinear dynamics of a cournot duopoly game with differentiated products
+touch point customer satisfaction a dynamic profiling
+gender diversity in the italian boardroom and firm financial performance
+earnings differentials between immigrants and natives the role of occupational attainment
+political knowledge and attitudes towards centralisation in europe
+a new cinderella story joint ventures and the property rights theory of the firm
+productivity shocks capital intensities and bank interest rates
+expectation formation in an overlapping generation model with production
+use and performance of the forest fire weather index to model the risk of wildfire occurrence in the alpine region
+endogenous evolution of heterogeneous consumers preferences multistability and coexistence between groups
+memory market stability and attractors coexistence in a nonlinear cobweb model
+revisiting long run relations in power markets with high res penetration
+the impact of res in the italian day ahead and balancing markets
+are some countries more honest than others evidence from a tax compliance experiment in sweden and italy
+the influence of social media management on firms competitiveness
+micro blog and e commerce strategy investigating the linkages
+managing common land in unequal societies the case of the lombard alps in the eighteenth century
+when the crisis hits monetary policy liquidity provision and sovereign bailouts in the eu
+a positional game for an overlapping generation economy
+the blending of luxury fashion brands and contemporary art
+a structured dirichlet mixture model for compositional data inferential and applicative issues
+fast fashion business model an overview
+deriving competitive intelligence from social media microblog challenges and opportunities
+producing and selling wine in eastern lombardy 19th 21th centuries
+cognitive unconscious and human rationality
+almost graduated close to employment taking into account the characteristics of companies recruiting at a university job placement office
+a multiscale time model with piecewise constant argument for a boundedly rational monopolist
+limited farsightedness in network formation
+social comparison and risk taking behavior
+a multivariate approach to facebook data for marketing communication
+ethanol and field crops is there a price connection
+nitrates in drinking water relation with intensive livestock production
+inferential confidence intervals for fuzzy analysis of teaching satisfaction
+fuzzy analysis of students ratings
+global supply chain management in fashion companies
+bank taxes and loan monitoring a cautionary tale
+capital intensities and international trade in banking services
+asset pricing in an imperfect world
+the representation of conglomerative functionals
+modelling the distribution of health related quality of life of advanced melanoma patients in a longitudinal multi centre clinical trial using m quantile random effects regression
+response inhibition and suppression of idea generation in insight problem solving
+curbing systemic risk in the insurance sector a mission impossible
+bipolar distributions in fuzzy sets theory
+quality service in banking a longitudinal approach
+cities and inequality
+bootstrap confidence intervals for biodiversity measures based on gini index and entropy
+market implications of art collectors consumer behavior the case of françois pinault
+posting of workers across the eu an empirical investigation
+open data on health opportunities and risks
+labor market reform and rent sharing a quasi experiment experience
+government effectiveness middle class and poverty in the eu a dynamic multilevel analysis
+complex dynamics and multistability with increasing rationality in market games
+dynamic effects of memory in a cobweb model with competing technologies
+family splitting versus joint taxation a case study
+do small businesses respond to a change in tax audit rules evidence from italy
+building an industrial society welfare capitalism in the city of factories sesto san giovanni italy
+the store as propagator of luxury brand sustainability
+investment spillovers and the allocation of property rights
+fdi and heterogeneous performance of european enterprises
+internationalisation and performance what we learn from italy
+simulating interventions in graphical chain models for longitudinal data
+corporate sustainability in fashion and luxury companies
+new facts about bric multinationals from macro to micro evidence
+endovenous laser ablation of great and small saphenous vein incompetence with a 1470 nm laser and radial fiber
+hierarchical modeling of indoor radon concentration how much do geology and building factors matter
+adherence to medical treatment in inflammatory bowel disease patients
+response surface prediction from a spatial monitoring process
+ouverture de special issue on fashion and luxury management
+is it the way they use it teachers ict and student achievement
+minimally adaptive bh a tiny but uniform improvement of the procedure of benjamini and hochberg
+a regression model for compositional data based on the shifted dirichlet distribution
+information transmission and ownership consolidation in aid programs
+dynamics of a multiplier accelerator model with nonlinear investment function
+russian tourism in italy trends seasonality and outliers
+forecasting models for updating monthly time series the case of russian tourism in italy
+from motivation to opinions and satisfaction how russian tourists evaluate italy
+russian tourism in italy features dynamics and opinions
+product market competition and access to credit
+strategyproof and efficient preference aggregation with kemeny based criteria
+dynamic nonpoint source pollution control policy ambient transfers and uncertainty
+optimal mechanisms for heterogeneous multi cell aquifers
+efficiency under a combination of ordinal and cardinal information on preferences
+setting environmental policy when experts disagree
+contract farming with possible reneging in a developing country can it work
+multidimensional welfare rankings under weight imprecision a social choice perspective
+revisiting worst case dea for composite indicators
+a note on the inefficiency of bidding over the price of a share
+house allocation with fractional endowments
+pollution control with uncertain stock dynamics when and how to be precautious
+institutional innovations and economic development in lombardy eighteenth twentieth centuries
+risk of pop mixtures on the arctic food chain
+the financial kuznets curve evidence for the euro area
+the us exchange rate structural modeling and forecasting during the recent financial crises
+policy games distributional conflicts and the optimal inflation
+capital maintenance and depreciation over the business cycle
+in search of the euro area fiscal stance
+great recession slow recovery and muted fiscal policies in the us
+towards a unification of second order theory for likelihood and marginal composite likelihood
+second order accurate confidence regions based on members of the generalized power divergence family
+prepivoting composite score statistics by weighted bootstrap iteration
+competitive networking for sme a case study of its success in italy
+applicability of qr code in italian small and medium enterprises through empirical cases
+can communicating tourism sustainability online affect the behaviour of a prospective traveller
+composite likelihood inference by nonparametric saddlepoint tests
+rose a package for binary imbalanced learning
+the use of permutation tests for variance components in linear mixed models
+the role of borrower cosigner kinship relations on loan default evidence from italy
+estimating judicial ideal points in latin america the case of argentina
+an empirical analysis of judicial transformation in turkey
+does ict adoption improve access to credit for small enterprises
+old and new factors affecting corruption in europe evidence from panel data
+corruption fatigued democracy and bad governance are they co determinants of poverty risk and social exclusion in europe a cross country macro level comparison
+using elton gruber statistics in estimating panel data dividend models
+excess input expenditure estimated by means of an input distance function the case of public railways
+global markets and development policies in large scale retailers
+how much do consumers value protected designation of origin certifications estimates of willingness to pay for pdo dry cured ham in italy
+willing to pay tax compliance in britain and italy an experimental analysis
+the origins of finmare a technocratic reform beyond state and market in fascist italy
+corporate governance and sustainability in italian large scale retail companies
+thinking about entry of firms a theoretical discussion
+measuring gender gap from a poset perspective
+fuzzy theory applications and criticism
+luxury fashion brand sustainability and flagship store design the case of smart sustainable stores
+the use of p values in applied research interpretation and new trends
+cultural and cognitive dimensions of innovation
+bounded rationality updated
+introduction to the special issue bounded rationality updated
+banking nudging opportunities and challenges for nudge strategies applied to the credit system
+empowering borrowers is the apr the most appropriate choice indicator a behavioural and empirical analysis
+managerial compensation and corporate bond yield with active shareholders
+correcting outliers in garch models a weighted forward approach
+how post crisis regulation has affected bank ceo compensation
+facebook data for marketing communication a statistical analysis
+inflation bias and markup shocks in a lamp model with strategic interaction of monetary and fiscal policy
+conglomerability and representations
+contribution to the discussion of a critical evaluation of the current p value controversy
+the bomb crater effect of tax audits beyond the misperception of chance
+introduction to macroeconomic dynamics special issue on dynamics of oil and commodities prices
+the formation of migrant networks
+the welfare impact of land redistribution evidence from a quasi experimental initiative in malawi
+how does migration affect child labor in sending countries
+international migration and child labor in developing countries
+international migration and informal social protection in rural mozambique
+do the right thing incentives for policy selection in presidential and parliamentary systems
+budget versus project aid a tradeoff between control and efficiency
+the interaction between high cognitive abilities learning and culture
+peasants and soldiers the management of the venetian military apparatus in the mainland dominion between xvi and xvii century
+protecting the commons self governance and state intervention in the italian states during the sixteenth and seventeenth centuries
+weapons production in the republic of venice in the early modern period the manufacturing centre of brescia between military needs and economic equilibrium
+insolvency as opportunity a marketing perspective on time dependent credit risk
+comment on small sample gee estimation of regression parameters for longitudinal data
+global sensitivity analysis for repeated measures studies with informative drop out a semi parametric approach
+integrated peasant economy in a comparative perspective alps scandinavia and beyond
+foreword
+household income strategies in the lombard valleys persistence and loss of a traditional economic equilibrium in an alpine area end 18th early 20th centuries
+gross annual salary of a new graduate is it a question of profile
+the italian blitz a natural experiment on audit publicity and tax compliance
+keeping funding costs under control evidence from bank bond issues
+contract competition between hierarchies managerial compensation and imperfectly correlated shocks
+the infuence of the european institutions and policies on the italian dairy sector
+do rivals enhance your credit conditions
+natural variability of biochemical biomarkers in the macro zoobenthos dependence on life stage and environmental factors
+where women make the difference the effects of corporate board gender quotas on firms performance across europe
+italy
+the influence of the economic sectors for the business choice of a new hiring
+two possible extensions for an economic re valuation index a case study on the italian dry cured ham
+the use of conjoint analysis utility scores as cluster seeds results based on a dry cured ham survey
+culture and creativity management milan as a global capital for value creation
+bricks and mortar retail stores as sustainability communication channels for luxury fashion brands
+a bayesian approach to false discovery rate and power in multiple testing
+growth curves of wild mallard based on functional analysis of captureâ recapture data
+gamlss for big data roc curve prediction using twitter data
+the effect of the firm size in the selection of recruitment for new graduates
+random utility models in a stated preference approach some considerations on the transition from university to work
+aboutpharma digital awards 2017 innovate engage impact
+an evolutive financial market model with animal spirits imitation and endogenous beliefs
+a new regression model for bounded responses
+real and financial market interactions in a multiplier accelerator model nonlinear dynamics multistability and stylized facts
+nonlinear monetary policy rules in a pure exchange overlapping generations model
+monopoly models with time varying demand function
+experimental oligopolies modeling a dynamic approach based on heterogeneous behaviors
+bifurcation structures of a cobweb model with memory and competing technologies
+on controlling chaos in a discrete time walrasian tatonnement process
+monetary feedback rules and equilibrium determinacy in pure exchange overlapping generations models
+chaotic congestion games
+the empress cities urban centres societies and economies in the age of maria theresia von habsburg
+the cities the empress and the urban spaces an introduction
+building in this city has led to fanaticism the urban changes of milan in the theresian period
+tragedy of the commons
+a special dirichlet mixture model for multivariate bounded responses
+non prescription drug distribution in italy the role of large scale retailers
+tourism products distribution and large scale retailers
+a least squares approach to latent variables extraction in formative reflective models
+the key role of retail stores in fast fashion companies the h m case study
+compositional approach to the analysis of species abundance data
+modified multivariate kolmogorov smirnov test of goodness of fit
+dynamic profiling of banking customers a pseudo panel study
+ethnic minority concentration a source of productivity growth for italian provinces
+industrial production index and the web an explorative cointegration analysis
+preferences for living in homogenous communities and cooperation a new methodological approach combining the hedonic price model and a field experiment
+complex dynamics in an evolutionary general equilibrium model
+profiling online poker players are executive functions correlated with poker ability and problem gambling
+forecasting cpi weights through compositional varima an application to italian data
+firm size distributions and stochastic growth models a comparison between ict and mechanical italian companies
+safe credit to the poor the role of anti usury policies
+updating cpi weights through compositional var forecasts an application to the italian index
+decentralization of public expenditure and growth in italy does the composition matter
+measuring bipolarization in labour productivity in italy a new index and its decomposition by sectors and regional factors
+contemporary frequentist views of the 2 x 2 binomial trial
+evaluating university courses intuitionistic fuzzy sets with spline functions modelling
+why promoting online in a global electronic marketplace is a successful strategy for small and medium sized enterprises the alibaba group holding business model
+value perception of world heritage sites and tourism sustainability matters through content analysis of online communications the case of victoria falls world heritage site
+a facebook campaign about heritage and tourism its results and how to measure them
+evaluating the sustainable value proposition of an italian smes virtual network through its value creation stage
+selecting subgrids from a spatial monitoring network proposal and application in semiconductor manufactoring process
+pilgrims in the digital age a research manifesto
+managing sustainability to be sustainable the toyota case
+brain based bounded creativity
+bayesian prediction with multiple samples information
+on the estimation of the mean density of random closed sets
+asymptotic results for multivariate estimators of the mean density of random closed sets
+optimal bandwidth of the minkowski content based estimator of the mean density of random closed sets theoretical results and numerical experiments
+numerical experiments for the estimation of mean densities of random sets
+on time dependent gibbs type random probability measures
+science based industries and spin offs
+does technological convergence imply convergence in markets evidence from the information technology industry
+the economic value of knowledge and inter firm technological linkages an investigation of science based firms
+software industry
+the market value of patents and r d evidence from european firms
+markets for technology
+how provincial is your region effects on income and employment in europe
+explaining leadership in virtual teams the case of open source software
+industrial organisation and innovation an international study of the software industry
+does reputation facilitate startups access to venture capital funding
+open source software from open science to new marketing models
+foreign entry and survival in a knowledge intensive market emerging economy countries international linkages technology competences and firm experience
+survival and activity of oss projects
+does local tourism improve the territorial performance in a global context
+the role of the multinational companies
+an esplorative study of skills and openness in open source software projects
+the dynamics of market structure and innovation in the western european software industry
+technology and business diversification a survey of theories and empirical evidence
+a test of lazear s theory of entrepreneurship in the open source software virtual community
+technological exploration through licensing new insights from the licensee s point of view
+in the foosteps of silicon valley indian and irish software in the international division of labour
+ict skills and organisational change evidence from a panel of italian manufacturing firms
+firm specialisation and growth a study of the european software industry
+competence accumulation and collaborative ventures evidence from the largest european electronics firms and implications for the eu technological policies
+on the measurement of knowledge flows with patent citations
+codified tacit and general specific knowledge in the diivsion of labour among firms a case study of the software industry
+internal capabilities and external networks in innovative activities evidence from the software industry
+skills division of labor and performance in collective inventions evidence from open source software
+used blocking and sleeping patents empirical evidence from a large scale inventor survey
+how provincial is your region openness and regional performance in europe
+financial patenting in europe
+firms skills as a channel to external knowledge theory and empirical evidence
+social interaction and technology adoption experimental evidence from improved cookstoves in mali
+macroeconomic and financial effects of oil price shocks evidence for the euro area
+it ain t over till it s over a global perspective on the great moderation great recession interconnection
+financial development and income distribution inequality in the euro area
+transparency in public administrations the italian foia case
+on bias reduction and incidental parameters
+banking in macroeconomic theory and policy
+personal values and credit scoring new insights in the financial prediction
+on some distributional properties of hierarchical processes
+understanding the potentialities of a strategic association between luxury fashion brands and furniture design
+global firms and cross cultural management
+macroeconomic conditions and health inspecting the transmission mechanism
+connecting alone smartphone use quality of social interactions and well being
+consumption and happiness an introduction
+exploring organizational propensity toward inboundâ outbound marketing techniques adoption the case of pure players and click and mortar companies
+exploring corporate social responsibility and financial performance through stakeholder theory in the tourism industries
+key challenges and opportunities in web entrepreneurship
+macroeconomic conditions and well being do social interactions matter
+performance luck and equality an experimental analysis of subjects preferences for different allocation criteria
+tax compliance under different institutional settings in italy and sweden an experimental analysis
+estimating judicial ideal points in the spanish supreme court the case of administrative review
+access to credit for small innovative businesses
+litigating federalism an empirical analysis of decisions of the belgian constitutional court
+nonparametric hierarchical models based on completely random measures
+nested processes based on completely random measures
+securities class actions
+large and moderate deviations for kernel type estimators of the mean density of boolean models
+junior farmer field schools agricultural knowledge and spillover effects quasi experimental evidence from northern uganda
+the value of culture to urban housing markets
+the flexible beta regression model
+gram charlier like expansions of power raised hyperbolic secant laws
+following or driving away from the leader a question of environmental uncertainty and visibility
+big data meet pharmaceutical industry an application on social media data
+the extended flexible dirichlet model a simulation study
+fdi direction fdi margin and heterogeneous firms evidence from the eu
+luxury fashion brands and furniture design investigating strategic associations
+between regulation and freedom work and manufactures in european cities 14th 18th centuries
+preface
+oil supply shocks and economic growth in the mediterranean
+global oil market and the u s stock returns
+economic impacts of el niño southern oscillation evidence from the colombian coffee market
+understanding dynamic conditional correlations between commodities futures markets
+interpreting the oil risk premium do oil price shocks matter
+the investment uncertainty relationship in the oil and gas industry
+financial crisis environmental turbulence and international trade the case of italy
+fixed costs and capital regulation impacts on the structure of banking markets and aggregate loan quality
+customer relationships and supply chain management in the fast fashion industy
+outside in open innovation in competitive business management
+distribution theory for hierarchical processes
+good toulmin type estimators for the number of unseen species
+how to decide in the large world of finance the bounded rational adaptive nudges
+do social resources matter social capital personality traits and the ability to plan ahead
+local and global analysis of speculative housing market with production lag
+an evolutive discrete exchange economy model with heterogeneous preferences
+dynamic profiling through repeated surveys a customer satisfaction study
+the satisfaction paradox revisited
+prolonged use and conditionality failure investigating imf responsibility
+social media marketing in luxury brands a systematic literature review and implications for management research
+heterogeneity and chaos in congestion games
+fashion cycle dynamics in a model with endogenous discrete evolution of heterogeneous preferences
+logrolling under fragmented authoritarianism theory and evidence from china
+political regimes and government s reaction to terrorism a simple model
+behind the emergence of clusters spinoffs and social ties the case of an italian industrial district
+economics of the craft beer revolution a comparative international perspective
+the birth and diffusion of craft breweries in italy
+the recent advent of micro producers in the spanish brewing industry
+boom bust dynamics in a stockmarket partecipation model with heterogeneous traders
+strong coexistence for a model with endogenous evolution of heterogeneous agents
+an oligopoly model with best response and imitation rules
+imitative and best response behaviors in a nonlinear cournotian setting
+agents beliefs and economic regimes polarization in interacting markets
+a robust approach to risk assessment based on species sensitivity distributions
+a latent class conjoint analysis for the administrative clerk figure insights from electus
+managing luxury brands in the digital environment
+is there a fiscal resource curse resource rents fiscal capacity and political institutions
+non governmental organisations and democracy an empirical analysis
+oil discoveries and democracy
+personal skills for graduates size and sectors as recruitment factors
+a review of balancing costs in italy before and after res introduction
+a cobweb model with gradient adjustment mechanism nonlinear dynamics and multistability
+length of searching and job matching public employment services and firm recruitment in italy
+technology spin offs teamwork autonomy and the exploitation of business opportunities
+the flagship stores as sustainability communication channels for luxury fashion retailers
+a latent class conjoint analysis for analysing graduates profiles
+military food supply in eighteenth century republic of venice entrepreneurs merchants and the state
+big data and official data a cointegration analysis based on google trends and economic indicators
+decentralization and economic growth in europe for whom the bell tolls
+a new relative importance index of evaluation for conjoint analysis some findings for crm assistant
+economic impacts of el niño southern oscillation evidence from the colombian coffee market
+statistical and economic evaluation of time series models for forecasting arrivals at call centers
+goal achievement failure drives corticospinal modulation in promotion and prevention contexts
+large scale retailers marketing channels and competitive customer value
+global firms and new standards of corporate social responsibility
+all resolutions inference for brain imaging
+a new augmented mixed regression model for proportions
+audit publicity and tax compliance a natural experiment
+measuring the multiple facets of tolerance using survey data
+liberalizing art evidence on the impressionists at the end of the paris salon
+implementation level in world bank projects national vs local allocation of power
+brand strategies and market driven management
+market coupling between electricity markets theory and empirical evidence for the italian slovenian interconnection
+notes on the economic and social impact of the migration flows in belgium from the post world war ii to the new millennium some case studies
+introduction migrants as job seekers and entrepreneurs and their influence on the economy and society of european countries
+labour migration in europe volume i integration and entrepreneurship among migrant workers a long term view
+the rise and fall of csr in italian local government
+evaluating regulatory reform of network industries a survey of empirical models based on categorical proxies
+the socio economic impact of a breakthrough in the particle accelerators technology a research agenda
+structural analysis with mixed frequency data a midas svar model of us capital flows
+b2b brand management and private labels products
+tax vs debt management under entitlement spending a multicountry study
+the impact of social pressure on tax compliance a field experiment
+information and reputation mechanisms in auctions of remanufactured goods
+the disappearance and rebirth of a wine the sfurzat in valtellina
+a spatial decomposition of the shift share components of labour productivity inequality in italy
+a spatial shift share decomposition of electricity consumption changes across italian regions
+on measuring polarization for ordinal data an approach based on the decomposition of the leti index
+decomposing changes in inequality and welfare between eu regions the roles of population change re ranking and income growth
+inequality in energy intensity in the eu 28 evidence from a new decomposition method
+on measuring income polarization an approach based on regression trees
+decomposing changes in co2 emission inequality over time the roles of re ranking and changes in per capita co2 emission disparities
+decomposing inequality change from the perspective of reranking and income growth between income groups
+on decomposing inequality and poverty changes over time a multi dimensional decomposition
+a matrix approach to the gini index decomposition by subgroup and by income source
+a subgroup decomposition of the inequality change over time
+a spatial decomposition of the change in urban poverty concentration
+a spatial shift share decomposition of energy consumption variation
+spatial mixed model for areal data on the simplex
+psychographic segmentation of italian bank customers
+behavioral attitudes and financial performances new ideas for a banking segmentation
+a longitudinal decomposition of zenga s new inequality index
+changes in poverty concentration in u s urban areas
+genetic differentiation local adaptation and phenotypic plasticity in fragmented populations of a rare forest herb
+rethinking the kolmogorov smirnov test of goodness of fit in a compositional way
+defect minimization and feature control in electrospinning through design of experiments
+a multi objective coordinate exchange two phase local search algorithm for multi stratum experiments
+optimization of thermophilic trans isoprenyl diphosphate synthase expression in escherichia coli by response surface methodology
+naïve bayes ant colony optimization for designing high dimensional experiments
+a computer aided methodology for the optimization of electrostatic separation processes in recycling
+a land use perspective for birdstrike risk assessment the attraction risk index
+the behavioural finance revolution
+understanding financial behaviour for policy making an introduction
+a predictive approach based on neural network models for building automation systems
+fire in ice two millennia of boreal forest fire history from the greenland neem ice core
+a coordinate exchange two phase local search algorithm for the d and i optimal designs of split plot experiments
+designing lead optimisation of mmp 12 inhibitors
+response improvement in complex experiments by co information composite likelihood optimization
+qualitative particle swarm optimization q pso for energy efficient building designs
+optimised design of energy efficient building façades via evolutionary neural networks
+a model based ant colony design for the protein engineering problem
+sleep quality and motor vehicle crashes in adolescents
+a multi objective bayesian sequential design based on pareto optimality
+maximum entropy design in high dimensions by composite likelihood modelling
+customer churn prediction based on extreme gradient boosting classifier
+the effect on mental health of retiring during the economic crisis
+parents skills and children s cognitive and non cognitive outcomes
+economic crisis and pathways to retirement
+trade and income inequality in developing countries
+the policy response to educational inequalities
+trade technology and skills evidence from turkish microdata
+varieties of capitalisms and varieties of performances accounting for inequality in post soviet union transition economies
+educational policies in a long run perspective
+expansion of schooling and educational inequality in europe the educational kuznets curve revisited
+measuring and detecting errors in occupational coding an analysis of share data
+the role of local labour market conditions and pupil attainment on post compulsory schooling decisions
+post secondary school type and academic achievement
+globalisation vs internal reforms as factors of inequality in transition economies
+the effect of immigrant peers in vocational schools
+a new dataset on educational inequality
+globalization technological change and labor demand a firm level analysis for turkey
+oligopoly models with different learning and production time scales
+component estimation for electricity market data deterministic or stochastic
+bayesian nonparametric inference beyond the gibbs type framework
+sustainability and collaborative consumption in the fashion industry
+estimating the number of unseen species under heavy tails
+density estimation via hierarchies of nonparametric priors
+an organizational culture for all seasons how cultural type dominance and strength influence different performance goals
+exploration of workforce changes in integrated chronic care findings from an interactive and emergent research design
+the influential role of personal advice networks on general practitioners performance a social capital perspective
+outcomes of integrated chronic care interventions including workforce changes
+the development description and appraisal of an emergent multimethod research design to study workforce changes in integrated care interventions
+exploring frailty and mild cognitive impairment in kidney transplantation to predict biomedical psychosocial and health cost outcomes geras protocol of a nationwide prospective cohort study
+a cost analysis of orthopedic foot surgery can outpatient continuous regional analgesia provide the same standard of care for postoperative pain control at home without shifting costs
+organizing healthcare in remote rural areas comparing experiences of service delivery re design
+unraveling care integration assessing its dimensions and antecedents in the italian health system
+the relationship between senior management team culture and clinical governance empirical investigation and managerial implications
+the patterns of health care utilization by elderly europeans frailty and its implications for health systems
+does informal care impact utilization of healthcare services evidence from a longitudinal study of stroke patients
+the impact of migration on child labor theory and evidence from brazil
+sustainable development and environmental sustainability in large scale retailers
+real resource utilization in banking economies of scope and the relationship between retail loans and deposits
+macroeconomics rationality and institutions
+electoral fraud and voter turnout an experimental study
+middle class government effectiveness and poverty in the eu a dynamic multilevel analysis
+proportional representation with uncertainty
+south south migration and the labor market evidence from south africa
+spatiotemporal prevision for emergency medical system events in milan
+communication structure and coalition proofness experimental evidence
+cognitive ability and games of school choice
+carbon is forever a climate change experiment on cooperation
+climate change behavioral responses from extreme events and delayed damages
+customer information search in the context of e commerce a cross cultural analysis
+matching the future capabilities of an artificial intelligence based platform for social media marketing with potential users expectations
+almost graduated close to employment taking into account the characteristics of companies recruiting at a university job placement office
+asset specificity and product market competition
+determinacy analysis in high order dynamic systems the case of nominal rigidities and limited asset market participation
+limited asset market participation sticky wages and monetary policy
+on stable outcomes of approval plurality and negative plurality games
+moderating government
+robustness against outliers a new variance inflated regression model for proportions
+analysing radon accumulation in the home by flexible m quantile mixed effect regression
+contamination by volatile organic compounds vocs in the alluvial aquifers of abruzzo region
+the res induced switching effect across fossil fuels an analysis of day ahead and balancing prices
+what does a young cheater look like an innovative approach
+intermediaries commitment in investments and performance of project based ventures
+technological competition patent strategy protection blocking rivals or the freedom to operate
+patent strategies traditional proprietary and defensive
+the evaluations of the requirements insights from the professional figure of cook in italy
+a cobweb model with elements from prospect theory
+an evolutionary model with best response and imitative rules
+an oligopoly model with rational and imitative rules
+where women make a difference gender quotas and firms performance in three european countries
+how can a travel agency network survive in the wake of digitalization evidence from the robintur case study
+the heterogeneous effect of oil discoveries on democracy
+firm strategic behavior and the measurement of knowledge flows with patent citations
+the value of collateral under asset specialization and product market competition
+data science social research 2019 book of abstracts second international conference on data science and social research
+a test of the impact of mergers on bank competition
+a missing value approach on facebook big data like dislike or nothing
+company requirements and monetary evaluation in the italian healthcare industry
+the risk of inapppropriateness in the italian geriatric wards using national hospital data
+perfect and imperfect strangers in social dilemmas
+one size does not fit all quantile regression estimates of cross country risk of poverty in europe
+representation effects in the centipede game
+regularized semiparametric estimation of high dimensional dynamic conditional covariance matrices
+climate change implications for the catastrophe bonds market an empirical analysis
+robust measures of skewness and kurtosis for macroeconomic and financial time series
+technological learning and innovation gestation lags at the frontier of science from cern procurement to patents
+limited asset market participation and the euro area crisis an empirical dsge model
+the value of the personal skills of new graduates in the recruitment process a conjoint analysis case study in lombardy
+control measures on boolean algebras
+convergence of european natural gas prices
+do overseas r d laboratories in emerging markets contribute to home knowledge creation
+the impact of r d offshoring on the home knowledge production of oecd investing regions
+the neglected effects of r d captive offshoring in emerging countries on the creation of knowledge at home
+how mnes respond to environmental regulation integrating the porter hypothesis and the pollution haven hypothesis
+exploration during turbulent times an analysis of the relation between cooperation in innovation activities and radical innovation performance during the economic crisis
+green regions and local firms innovation
+brain networks construction using bayes fdr and average power function
+fcc ee the lepton collider future circular collider conceptual design report volume 2
+an evolutionary cournot oligopoly model with imitators and perfect foresight best responders
+fashion cycle dynamics induced by agents heterogeneity for generic bell shaped attractiveness functions
+robust measures of skewness and kurtosis for macroeconomic and financial time series
+procurement in big science centres politics or technology evidence from cern
+comparing post crisis dynamics across euro area countries with the global multi country model
+eductive stability may not imply evolutionary stability in the presence of information costs
+comment on cai sun and wang covariate assisted ranking and screening for large scale two sample inference
+a new regression model for bounded multivariate responses
+issues on bayesian nonparametric measures of disclosure risk
+hierarchies of nonparametric priors
+issues with nonparametric disclosure risk assessment
+a formal approach to data swapping and disclosure limitation techniques
+fcc hh the hadron collider future circular collider conceptual design report volume 3
+a deep reinforcement learning approach for automated cryptocurrency trading
+tracking precursors of learning analytics over serious game team performance ranking
+digital platforms and social media in fashion rental business models
+linearly implicit approximations of diffusive relaxation systems
+destination branding and residents an analysis of the valtellina territory
+the international drone market an emerging market requiring adequate rules and management
+working conditions and health of older workers
+does training help retaining older workers into employment evidence from the share survey
+what is wrong with the history of wages or the divide in economic history a reappraisal suggested by eighteenth century milan
+the anatomy of vat efficiency evidence from italy 2009 2014
+semilattices canonical embeddings and representing measures
+spatial logistic regression for events lying on a network car crashes in milan
+monitoring network selection in semiconductor manufacturing process
+essays on monetary policy stock market and heterogeneous expectations
+the impact of the bail in regulation on banks capital structure and cdss
+a family of flexible mixture distributions for constrained data
+contributions to modelling via bayesian nonparametric mixtures
+dynamics of inequality and impact of social protection program on wellbeing of children in ethiopia
+sectoral shocks and banking crises in a schumpeterian model of endogenous firm dynamics
+a monetary revaluation of the cross skills for the italian marketing sector
+modelling hedonic price using semiparametric m quantile regression
+what do employers look for when hiring new graduates answers from the electus survey
+solidarity and efficiency in preference aggregation a tale of two rules
+work in early modern italy 1500 1800
+viniculture in the italy of the mezzadria tuscany umbria marche
+complex interplay between monetary and fiscal policies in a real economy model
+bayesian inference for a mixture model on the simplex
+permutation based simultaneous confidence bounds for the false discovery proportion
+the effect of school rank on personality traits
+monopolistic price flexibility and social welfare the linear case
+debiasing through auction inertia in the liberalization of retail markets
+some notes on ce s production functions
+x inefficiency competition and market information
+the regulation of access to gas storage with capacity constraints
+monopolistic competition ces redux
+economic integration effects on market structure
+on endogenous efficiency in public and private firms
+why regulate prices some notes on the price cap methods
+logarithmic quasi homethetic preferences
+on the output criterion for price discrimination
+inferior factor in cournot oligopoly revisited
+preferences entry and market structure
+taxing a monopolist
+reserve prices in all pay auctions with incomplete information
+the allen uzawa elasticity of substitution as a measure of gross input substitutability
+elasticities of substitution and complementarity a synthesis
+a note on the exclusion principle
+on inferior inputs and marginal returns
+monopolistic marginal cost pricing
+a note on third degree price discrimination and output
+monopolistic competition when income matters
+price cost margins and firm size under monopolistic competition the case of ies preferences
+pricing to market in the krugman model
+a note on endogenous efficiency in cournot models of incomplete information
+welfare effects of two part discriminatory tariffs constrained by caps
+a note on ramsey pricing and the structure of preferences
+international trade with indirect additivity
+selectorate s information and dictator s accountability
+nonparametric estimates of option prices and related quantities
+exploring service innovation in a network of travel agencies the robintur case
